@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="15" moduleid="307" modulename="assign" contextid="524">
+  <assign id="15">
+    <name>Assignment #1: Modeling Self-Questioning</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;" size="3"&gt;&lt;span face="Calibri"&gt;First, watch the video below that is about 5 minutes long. &lt;a title="Using Reciprocal Teaching Strategies to Boost Reading Comprehension" href="https://www.youtube.com/watch?v=xO_vJT5ieMk" target="_blank"&gt;Using Reciprocal Teaching Strategies to Boost Reading Comprehension&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;Then, try reciprocal teaching with your class and write a one-page reflection on your application of reciprocal teaching.  In your reflection, &lt;span face="Calibri" size="4"&gt; note what was successful and what was not. &lt;/span&gt;You may opt to &lt;span face="Calibri" size="4"&gt;record an audiotape of you teaching your class, then r&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;&lt;span face="Calibri" size="4"&gt;eview the tape and analyze the questioning behaviors apparent in the recording.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span size="3"&gt;&lt;span face="Calibri"&gt;&lt;span face="Calibri" size="4"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;" size="3"&gt;&lt;span face="Calibri"&gt;&lt;span face="Calibri" size="4"&gt;Click below on "Add my submission" to submit your reflection or copy and paste your reflection into the online text box.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;" size="3"&gt;&lt;span style="font-family: Calibri;" face="Calibri"&gt;&lt;span style="font-family: Calibri; font-size: large;" face="Calibri" size="4"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: black; font-family: Arial; font-size: 6.5pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;" lang="EN"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1473693578</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="83">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="84">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="85">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="86">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="87">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="88">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="89">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1983">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1984">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

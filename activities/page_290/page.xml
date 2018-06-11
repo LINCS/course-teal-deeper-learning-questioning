@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="50" moduleid="290" modulename="page" contextid="507">
+  <page id="50">
+    <name>Background Readings</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: verdana,arial,helvetica,sans-serif; font-size: small;"&gt;Read these articles when you start this course. These articles will provide background knowledge and a common vocabulary about SCL.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;span&gt;The first reading is about deeper learning and 21st century competencies from the&lt;em&gt; NRC Report: &lt;a title="pdf - opens in new window - NRC Report - Education for Life and Work: Guide for Pratitioners" href="@@PLUGINFILE@@/Education_for_Life_and_Work_Booklet.pdf" target="_blank"&gt;Education for Life and Work: Guide for Practitioners&lt;/a&gt;.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;The second reading is a &lt;a title="PDF - Opens in new tab - Fact Sheet Questioning" href="@@PLUGINFILE@@/12_TEAL_Deeper_Learning_Qs_complete.pdf" target="_blank"&gt;&lt;span class="nolink"&gt;&lt;em&gt;TEAL Center Fact Sheet No. 12 on Deeper Learning through Questioning&lt;/em&gt;&lt;/span&gt;&lt;/a&gt;. Save this Fact Sheet for future reference and share with colleagues.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;The third and fourth readings are about deeper learning in mathematics.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;Capacity Building Series: &lt;a title="PDF - opens in new tab - Asking Effective Questions" href="@@PLUGINFILE@@/CBS_AskingEffectiveQuestions.pdf" target="_blank"&gt;Asking Effective Questions: Provoking Student Thinking/Deepening Conceptual Understanding in the Mathematics Classrom&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt;Recommendation #2 in &lt;a title="Improving Mathematical Problem Solving in Grades 4 Through 8: A Practice Guide " href="http://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/mps_pg_052212.pdf" target="_blank"&gt;Improving Mathematical Problem Solving in Grades 4 Through 8:  A Practice Guide&lt;/a&gt; developed by the National Center for Education and Evaluation, pp. 17-22&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="text-align: center;"&gt;__________________________&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html" target="_blank"&gt;Collection Scope and Criteria for Inclusion&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>18</revision>
+    <timemodified>1477513840</timemodified>
+  </page>
+</activity>

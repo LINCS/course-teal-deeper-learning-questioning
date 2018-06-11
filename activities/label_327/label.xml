@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="90" moduleid="327" modulename="label" contextid="545">
+  <label id="90">
+    <name>Answer these 10 questions to check whether you hav...</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; color: #000000; font-size: small;"&gt;Answer these 10 questions to check whether you have mastered the concepts and terminology of deeper learning through questioning.  The answers are shown after you submit your responses.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1386265243</timemodified>
+  </label>
+</activity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="48" moduleid="288" modulename="page" contextid="505">
+  <page id="48">
+    <name>Teacher Questioning for Deeper Learning (Video)</name>
+    <intro>&lt;p&gt;&lt;span style="font-family: verdana, arial, helvetica, sans-serif; font-size: small;"&gt;Deeper Learning in Math: Self-Questioning, Monitoring, and Reflection (Video)&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;&lt;span style="font-family: verdana, arial, helvetica, sans-serif; font-size: small;"&gt;Watch the presentation on teacher questioning below. It explores ways to use questioning to enhance student learning and encourage students to think more critically.&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt; &lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt; &lt;/div&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="640" height="480"&gt;&lt;param name="movie" value="//www.youtube.com/v/0VctZXD2pM4?version=3&amp;amp;hl=en_US&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/0VctZXD2pM4?version=3&amp;amp;hl=en_US&amp;amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt; &lt;/div&gt;
+&lt;div style="text-align: center;"&gt;[&lt;a title="Transcript Helping Learners Become Self-Regulated" href="@@PLUGINFILE@@/Teacher%20Questioning%20for%20Deeper%20Learning_MacRev_19June2013.pdf" target="_blank"&gt;Transcript of Presentation&lt;/a&gt;]&lt;/div&gt;
+&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: xx-small;" size="1"&gt;[The video content presented here requires JavaScript to be enabled and the latest version of the Adobe Flash Player. If you do not have the latest version, please update Adobe Flash Player by downloading it here: &lt;a href="https://get.adobe.com/flashplayer/" title="Adobe Flash Player" target="_blank"&gt;https://get.adobe.com/flashplayer/&lt;/a&gt;]&lt;/span&gt;&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>18</revision>
+    <timemodified>1527016905</timemodified>
+  </page>
+</activity>

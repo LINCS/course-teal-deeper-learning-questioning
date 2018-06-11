@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="74" moduleid="283" modulename="label" contextid="500">
+  <label id="74">
+    <name> 
+Tell us about your goals for participation in t...</name>
+    <intro>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Tell us about your goals for participation in this course and your prior experience using questioning strategies.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1386265076</timemodified>
+  </label>
+</activity>
