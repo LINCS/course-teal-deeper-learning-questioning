@@ -1,0 +1,2 @@
+# course-teal-deeper-learning-questioning
+This Moodle course is for Deeper Learning Through Questioning. Questioning is a powerful teaching approach. When teachers ask higher-order questions and give students opportunities to think critically and to develop deep explanations, learning is enhanced. Equally important as teacher questions are student self-questions. Self-questioning can guide learning and help students to monitor their progress. This course focuses on both teacher questioning and student self-questioning.
